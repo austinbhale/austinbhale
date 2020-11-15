@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbhale&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austinbhale&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCYOLodhgO-JaRL37SfDyprg&key=AIzaSyDlcwJXVujStVn_kjdBB3zXuwV6tOqQkqU&style=for-the-badge&color=69badd&labelColor=black&format=short"/>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCYOLodhgO-JaRL37SfDyprg&key=AIzaSyDlcwJXVujStVn_kjdBB3zXuwV6tOqQkqU&style=for-the-badge&color=69badd&labelColor=black&format=short"/>
+</a>
+<br><br>
+Check my YouTube channel for most recent work!
