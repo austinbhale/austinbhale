@@ -1,20 +1,20 @@
-me: Profile Readme Development Stats
+name: Profile Readme Development Stats
 
 on:
-          schedule:
-                      # Runs at 11:10 am SGT
-                      #     - cron: '10 03 * * *'
-                      #
-                      #     jobs:
-                      #       update-readme:
-                      #           name: Update Readme with Metrics
-                      #               runs-on: ubuntu-latest
-                      #                   steps:
-                      #                         - uses: anmol098/waka-readme-stats@master
-                      #                                 with:
-                      #                                           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-                      #                                                     GH_TOKEN: ${{ secrets.GH_TOKEN }}
-                      #                                                               SHOW_SHORT_INFO: FALSE
-                      #                                                                         SHOW_PROFILE_VIEWS: FALSE 
-                      #                                                                                   SHOW_LOC_CHART:  FALSE
-                      #                                                                                             SHOW_PROJECTS:  FALS
+  schedule:
+    # Runs at 11:10 am SGT
+    - cron: '10 03 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_SHORT_INFO: FALSE
+          SHOW_PROFILE_VIEWS: FALSE 
+          SHOW_LOC_CHART:  FALSE
+          SHOW_PROJECTS:  FALSE
