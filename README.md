@@ -25,6 +25,8 @@ Check my YouTube channel for my most recent work!
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -56,7 +58,7 @@ Sunday       38 commits     ███░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
