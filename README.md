@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbhale&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austinbhale&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=austinbhale&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br> -->
 
 Check my <a href="https://www.youtube.com/channel/UCYOLodhgO-JaRL37SfDyprg">YouTube channel</a> for my most recent work!
 <!--
